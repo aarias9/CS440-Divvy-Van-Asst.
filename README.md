@@ -1,5 +1,5 @@
 # CS440-Divvy-Van-Asst.
-Software Enginneering I 
+Software Enginneering I Project(s)
 
 Development Project: Divvy Van Asst.
 
